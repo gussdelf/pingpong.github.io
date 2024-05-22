@@ -54,7 +54,7 @@ let velocidadeYOponente;
 
 Aqui declaramos as variaveis que darão a posição inicial da raquete do adversário.
 
-## a 
+## O jogo em si 
 
 Aqui criamos os espaço que sera criado o jogo.
 ```javascript
